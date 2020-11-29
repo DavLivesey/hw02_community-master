@@ -1,1 +1,1 @@
-# hw02_community-master
+# Communities for project "Yatube"
