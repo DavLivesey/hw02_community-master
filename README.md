@@ -1,1 +1,1 @@
-# Communities for project "Yatube"
+# backend_community_homework
